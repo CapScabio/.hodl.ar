@@ -4,11 +4,11 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "CapScabio" # < TU_USUARIO@hodl.ar
+# username: "CapScabio@hold.ar" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 # nostr: capscabio # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+#   npub: ""capscabio"" # Entre comillas dobles
 
 # Configuración Global
 html:
