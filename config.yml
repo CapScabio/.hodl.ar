@@ -8,7 +8,7 @@ version: 0.3.5 # NO TOCAR
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
-#   npub: "npub1rcr5dk7kc2sx4gpej5z7pqcd9mn0zrexczp3xcg4v5ghpxsc8jaqpmdf2j" # Entre comillas dobles
+#   npub: ""npub1rcr5dk7kc2sx4gpej5z7pqcd9mn0zrexczp3xcg4v5ghpxsc8jaqpmdf2j"" # Entre comillas dobles
 
 # Configuración Global
 html:
