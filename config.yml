@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: CapScabio # Aca podes poner tu nombre o el de tu producto
+  title: CapBordados # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
