@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: CapBordados # Aca podes poner tu nombre o el de tu producto
+  title: CapScabio # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -51,7 +51,7 @@ blocks:
 
 # - title: Telegram
 #   icon: telegram
-#   url: https://t.me/@CapitandelScabio
+#   url: https://t.me/CapitandelScabio
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
